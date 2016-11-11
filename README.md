@@ -7,7 +7,8 @@ The most standard and modern Japanese CSS font-family.
 
 **CSS**
 
-```body {
+```
+body {
   font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", Meiryo, "Helvetica Neue", Arial, sans-serif;
   }
 ```
